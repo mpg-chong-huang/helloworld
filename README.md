@@ -10,3 +10,6 @@ http://www.yellowrush.com/usr/uploads/2016/08/2912756770.jpg
 Romulo Cafe  https://www.google.com.ph/maps/place/Romulo+Cafe+-+Makati/@14.5622186,121.0236397,18.5z/data=!4m12!1m6!3m5!1s0x0:0x58b04810cec0fef3!2sRomulo+Mabanta+Buenaventura+Sayoc+%26+de+los+Angeles!8m2!3d14.557361!4d121.021702!3m4!1s0x0:0x127f48560cfcf9ac!8m2!3d14.5630439!4d121.0231483 
 
 little tokyo   Izakaya Kikufuji Japanese 
+
+
+stranger thing
