@@ -13,3 +13,7 @@ little tokyo   Izakaya Kikufuji Japanese
 
 
 stranger thing
+
+
+09196315402 her name is Emerita Albas
+tell her the date of your climb...how many people is in your group and the trail you're going to pass thru
