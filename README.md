@@ -1,6 +1,9 @@
 # seajs 
-testing repository  http://www.yellowrush.com/usr/uploads/2016/08/4277754286.jpg
+testing repository  
+http://www.yellowrush.com/usr/uploads/2016/08/4277754286.jpg
 http://laravelacademy.org/post/1947.html
+
+http://es6-features.org/#SpreadOperator
 
 https://www.behance.net/gallery/38618055/Characters-for-Curse-app
 
