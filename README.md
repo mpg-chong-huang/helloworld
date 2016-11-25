@@ -1,4 +1,4 @@
-# seajs 
+# remind
 testing repository  
 
 https://csts.immigration.gov.tw/HKMO/apply/choiceLocation
