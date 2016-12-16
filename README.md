@@ -51,3 +51,5 @@ http://video.eyny.com/index.php?mod=search&type=&date=&orderby=&cid=0&srchtxt=%E
 终末的伊泽塔
 
 午睡公主
+
+http://stackoverflow.com/jobs/127837/top-level-senior-html5-developer-team-lead-essential-algorithms-solutions?offset=9&
