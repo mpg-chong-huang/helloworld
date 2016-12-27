@@ -55,3 +55,15 @@ http://video.eyny.com/index.php?mod=search&type=&date=&orderby=&cid=0&srchtxt=%E
 http://stackoverflow.com/jobs/127837/top-level-senior-html5-developer-team-lead-essential-algorithms-solutions?offset=9&
 
 http://stackoverflow.com/jobs/131084/front-end-drupal-developer-design-extraordinaire-acro-media-inc?offset=14&
+
+
+http://i.niupic.com/images/2016/12/27/RaBtRG.jpg
+
+http://i.niupic.com/images/2016/12/27/itpEiB.jpg
+
+http://i.niupic.com/images/2016/12/27/ReafmP.jpg
+
+http://i.niupic.com/images/2016/12/27/6Xhtms.png
+
+http://i.niupic.com/images/2016/12/27/oaatuk.png
+
