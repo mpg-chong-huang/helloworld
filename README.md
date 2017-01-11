@@ -73,3 +73,7 @@ http://i.niupic.com/images/2016/12/27/X5fOMa.png
 
 
 
+2D game setting
+
+http://i.niupic.com/images/2017/01/11/pUD7aY.jpg
+
