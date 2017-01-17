@@ -75,6 +75,8 @@ http://i.niupic.com/images/2016/12/27/X5fOMa.png
 
 2D game setting
 
+http://www.9miao.com/forum.php?mod=viewthread&tid=87031
+
 http://i.niupic.com/images/2017/01/11/pUD7aY.jpg
 
 http://download.9miao.com/962936b365e0c476ba070bad26cdd76e.jpg
