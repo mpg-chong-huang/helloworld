@@ -36,6 +36,8 @@ http://video.eyny.com/index.php?mod=search&type=&date=&orderby=&cid=0&srchtxt=%E
 
 午睡公主
 
+夏美的萤火虫
+
 http://stackoverflow.com/jobs/127837/top-level-senior-html5-developer-team-lead-essential-algorithms-solutions?offset=9&
 
 http://stackoverflow.com/jobs/131084/front-end-drupal-developer-design-extraordinaire-acro-media-inc?offset=14&
