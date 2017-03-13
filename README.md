@@ -117,3 +117,7 @@ node host:
 
 https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting
 
+MEAN framework:
+
+http://mean.io/
+
