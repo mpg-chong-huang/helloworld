@@ -121,3 +121,9 @@ MEAN framework:
 
 http://mean.io/
 
+CentOS 7.0 released
+
+https://www.centos.org/download/
+
+
+
