@@ -129,3 +129,6 @@ iphone image solution
 
 https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 
+gmail html
+
+https://htmlmail.pro/
