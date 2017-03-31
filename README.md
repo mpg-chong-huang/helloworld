@@ -125,5 +125,7 @@ CentOS 7.0 released
 
 https://www.centos.org/download/
 
+iphone image solution
 
+https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 
