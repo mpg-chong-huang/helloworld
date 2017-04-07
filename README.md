@@ -132,3 +132,11 @@ https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 gmail html
 
 https://htmlmail.pro/
+
+task manage
+
+https://habitica.com/static/front
+
+about.me
+
+
