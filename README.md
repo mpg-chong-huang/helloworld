@@ -141,3 +141,5 @@ about.me
 
 https://stackoverflow.com/jobs/companies/tripaneer
 
+https://stackoverflow.com/jobs/117406/full-stack-web-developer-tokyo-japan-yaraku-inc
+
