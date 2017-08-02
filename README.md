@@ -1,5 +1,5 @@
 # remind
-testing repository 
+testing repository  echochen326
 
 http://jasonwatmore.com/post/2015/03/10/angularjs-user-registration-and-login-example-tutorial
 
