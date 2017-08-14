@@ -3,6 +3,9 @@ testing repository  echochen326
 
 hoangkhanhnhan@gmail.com
 
+huongdo1120@gmail.com
+09153765900
+
 http://jasonwatmore.com/post/2015/03/10/angularjs-user-registration-and-login-example-tutorial
 
 https://www.behance.net/gallery/45858767/Video-game-character-design-collection-II
