@@ -150,5 +150,7 @@ https://stackoverflow.com/jobs/117406/full-stack-web-developer-tokyo-japan-yarak
 
 ihcustodio@gmail.com
 
+https://squareup.com
+
 https://www.youtube.com/watch?v=i_dHFvi1BJc
 
