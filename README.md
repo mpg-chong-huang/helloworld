@@ -166,3 +166,18 @@ https://squareup.com
 
 https://www.youtube.com/watch?v=i_dHFvi1BJc
 
+function debounceRaF(func, ...args) {
+  let ticking = false;
+  return () => {
+    const context = this;
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        ticking = true;
+        func.apply(context, args);
+      });
+    } else {
+      ticking = false;
+    }
+  };
+}
+
